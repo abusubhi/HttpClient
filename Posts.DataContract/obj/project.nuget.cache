@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "63BOPlw5PR1wffMziOcuV5Zso7R6wc64t34GdPyfmYRZ1hjGk3oUqXJIVrGHm89SngqnNMft2C2gmky1V1Dk3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moh\\source\\repos\\TestHttpClient\\Posts.DataContract\\Posts.DataContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

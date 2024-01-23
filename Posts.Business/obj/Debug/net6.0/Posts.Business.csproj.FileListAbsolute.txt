@@ -1,0 +1,15 @@
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.csproj.AssemblyReference.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.AssemblyInfo.cs
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\bin\Debug\net6.0\Posts.Business.deps.json
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\bin\Debug\net6.0\Posts.Business.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\bin\Debug\net6.0\Posts.Business.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\bin\Debug\net6.0\Posts.DataContract.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\bin\Debug\net6.0\Posts.DataContract.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.csproj.CopyComplete
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\refint\Posts.Business.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\Posts.Business.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.Business\obj\Debug\net6.0\ref\Posts.Business.dll

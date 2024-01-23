@@ -1,0 +1,11 @@
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\bin\Debug\net6.0\Posts.DataContract.deps.json
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\bin\Debug\net6.0\Posts.DataContract.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\bin\Debug\net6.0\Posts.DataContract.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.AssemblyInfo.cs
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\refint\Posts.DataContract.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\Posts.DataContract.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataContract\obj\Debug\net6.0\ref\Posts.DataContract.dll

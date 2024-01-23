@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J/oixiqmZAJZMab7c5dN8IFmRxkfSnJZdiArldxAjdc=",
+  "Source": "TestHttpClient",
+  "BasePath": "_content/TestHttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

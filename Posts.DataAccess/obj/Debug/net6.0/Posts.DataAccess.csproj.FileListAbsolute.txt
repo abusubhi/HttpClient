@@ -1,0 +1,11 @@
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\bin\Debug\net6.0\Posts.DataAccess.deps.json
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\bin\Debug\net6.0\Posts.DataAccess.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\bin\Debug\net6.0\Posts.DataAccess.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.AssemblyInfo.cs
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\refint\Posts.DataAccess.dll
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\Posts.DataAccess.pdb
+C:\Users\moh\source\repos\TestHttpClient\Posts.DataAccess\obj\Debug\net6.0\ref\Posts.DataAccess.dll

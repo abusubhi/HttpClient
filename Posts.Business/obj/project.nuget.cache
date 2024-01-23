@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4oNsZHBiyvOLoRWi+WvhUJV5bWA4Rz0Bqx7jR4Q9K1Cab+E40ThEyCps6HOtCyCH/5XJT+eVJ3M6xsvewKJ9tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moh\\source\\repos\\TestHttpClient\\Posts.Business\\Posts.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\moh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
